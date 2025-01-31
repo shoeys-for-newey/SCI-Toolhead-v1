@@ -24,6 +24,6 @@ Orbitool O2
 # Compatible Nozzle Cams
 Mintion NZC
 
-!(https://github.com/shoeys-for-newey/SCI-Toolhead/blob/main/images/o2_shroud_front.JPG)
-!(https://github.com/shoeys-for-newey/SCI-Toolhead/blob/main/images/O2_shroud_side.JPG)
-!(https://github.com/shoeys-for-newey/SCI-Toolhead/blob/main/images/board_stock.JPG)
+! (https://github.com/shoeys-for-newey/SCI-Toolhead/blob/main/images/o2_shroud_front.JPG)
+! (https://github.com/shoeys-for-newey/SCI-Toolhead/blob/main/images/O2_shroud_side.JPG)
+! (https://github.com/shoeys-for-newey/SCI-Toolhead/blob/main/images/board_stock.JPG)

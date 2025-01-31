@@ -21,6 +21,9 @@ Anything with Sherpa Mini mounting (untested)
 SV08 Stock
 Orbitool O2
 
+# Compatible Probes
+Beacon RevH
+
 # Compatible Nozzle Cams
 Mintion NZC
 

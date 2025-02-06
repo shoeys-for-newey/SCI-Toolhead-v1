@@ -1,10 +1,10 @@
-# SCI-Toolhead
-
-"Scope Creep, Inc."
+# Scope Creep, Inc.
 
 All heat set inserts are M3 x 4.5mm OD x 5mm L
 
-Standard carriage plate works for everything
+Standard carriage plate works for everything  
+
+"Miro K Face" carriage plate can be used without K face on any extruder, but only fits the Miro's K face
 
 # Compatible Hotends
 SV08 Stock  

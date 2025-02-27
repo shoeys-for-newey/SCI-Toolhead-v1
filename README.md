@@ -15,7 +15,9 @@ Triangle Labs CHC XL
 # Compatible Extruders
 Miro (https://github.com/jrlomas/miro-extruder/tree/master)  
 Sherpa Mini  
-Anything with Sherpa Mini mounting (untested)  
+Anything with Sherpa Mini mounting (untested) 
+Wristwatch G2 (untested)
+Orbitor O2 (untested) 
 
 # Compatible Toolboards
 SV08 Stock  

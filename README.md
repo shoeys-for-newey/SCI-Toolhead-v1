@@ -4,13 +4,14 @@ All heat set inserts are M3 x 4.5mm OD x 5mm L
 
 Standard carriage plate works for everything  
 
-"Miro K Face" carriage plate can be used without K face on any extruder, but only fits the Miro's K face
+"Miro K Face" carriage plate can be used without K face on any Sherpa Mini bolt pattern extruder
 
 # Compatible Hotends
 SV08 Stock  
 Flowtech for SV08  
 Phaetus Conch  
 Triangle Labs CHC XL
+Rapido HF ** EXPERIMENTAL VORON CNC TAP CARRIAGE PLATE ONLY **
 
 # Compatible Extruders
 Miro (https://github.com/jrlomas/miro-extruder/tree/master)  
@@ -22,6 +23,7 @@ Orbitor O2 (untested)
 # Compatible Toolboards
 SV08 Stock  
 Orbitool O2  
+Nema17-mounted boards such as EBB36, strain relief must be found on your own
 
 # Compatible Probes
 Beacon RevH  

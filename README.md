@@ -1,5 +1,7 @@
 # Scope Creep, Inc.
 
+This is Version 1 of the SCI Toolhead, intended to be widely compatible with a range of hotends and extruders. Version 2 is more limited in compatibility but higher performance. Version 3 and Version 3 CNC are forthcoming. 
+
 All heat set inserts are M3 x 4.5mm OD x 5mm L
 
 Standard carriage plate works for everything  
